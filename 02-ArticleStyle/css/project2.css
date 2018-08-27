@@ -1,0 +1,167 @@
+p {
+	font-family: Georgia;
+	font-size: 16px;
+	color: #222;
+	line-height: 2em;
+}
+
+/*Header*/
+header h1 {
+	font-family:Open Sans;
+	font-size: 60px; 
+	color: #222;
+	text-align: center;
+}
+header h2 {
+	font-family: Georgia;
+	font-size: 20px;
+	color: #999;
+	font-weight: 400;
+	text-align: center;
+}
+
+header p {
+	font-family: Open Sans;
+	font-size: 14px;
+	color: #666;
+	line-height: 1.5em;
+}
+
+header #border {
+	border: solid 1px #ccc;
+	margin: 60px;
+}
+header .img1 {
+	border: solid 1px #ccc;
+	position: relative;
+	left: 6em;
+}
+
+/*Contents*/
+#contents h3 {
+	font-family: Open Sans;
+	font-size: 14px;
+	color: #999;
+	text-transform: uppercase;
+	text-align: left;
+	text-indent: 6em;
+}
+
+#contents ol li {
+	font-family: Georgia;
+	font-size: 20px;
+	color: #222;
+	text-decoration: underline;
+	list-style-position: inside;
+	text-align: left;
+	line-height: 2em;
+	text-indent: 2em;
+}
+
+#contents ol ol li {
+	font-family: Georgia;
+	font-size: 16px;
+	color: #666;
+	text-decoration: underline;
+	list-style-type: none;
+}
+
+#contents #border {
+	border: solid 1px #ccc;
+	margin: 60px;
+}
+
+/*Legal Definitions*/
+#legalDefinitions h3 {
+	font-family: Open Sans;
+	font-size: 36px;
+	color: #222;
+	text-align: center;
+}
+
+#legalDefinitions .quote {
+	background:  #f6f6f6;
+	border-left: solid 10px #e3e3e3;
+	font-family: Georgia;
+	font-style: italic;
+	font-size: 20px;
+	color: #222;
+}
+
+/*Definitions Aboriginal*/
+#definitionAboriginal h4 {
+	font-family: Open Sans;
+	font-size: 28px;
+	color:#222;
+	text-align: center;
+}
+
+#definitionAboriginal .quote {
+	background:  #f6f6f6;
+	border-left: solid 10px #e3e3e3;
+	font-family: Georgia;
+	font-style: italic;
+	font-size: 20px;
+	color: #222;
+}
+
+/*Definitions Academia*/
+#definitionAcademia h4 {
+	font-family: Open Sans;
+	font-size: 28px;
+	color:#222;
+	text-align: center;
+}
+
+#definitionAcademia .quote {
+	background:  #f6f6f6;
+	border-left: solid 10px #e3e3e3;
+	font-family: Georgia;
+	font-style: italic;
+	font-size: 20px;
+	color: #222;
+}
+
+/*Origins*/
+#origins h3 {
+	font-family: Open Sans;
+	font-size: 36px;
+	color: #222;
+	text-align: center;
+}
+
+/*Groups Aboriginal*/
+#groupsAboriginal h3 {
+	font-family: Open Sans;
+	font-size: 36px;
+	color: #222;
+	text-align: center;
+}
+
+/*Names Australian*/
+#namesAustralian h4 {
+	font-family: Open Sans;
+	font-size: 28px;
+	color:#222;
+	text-align: center;
+}
+
+#namesAustralian ul {
+	font-family: Georgia;
+	font-size: 16px;
+	color: #222;
+	line-height: 2em;
+	list-style-position: outside;
+	text-align: left;
+}
+
+#namesAustralian.img2 {
+	border: solid 1px #ccc;
+}
+
+#namesAustralian .photoscript {
+	font-family: Open Sans;
+	font-size: 14px;
+	color: #666;
+	line-height: 1.5em;
+}
